@@ -26,3 +26,5 @@ Projeto realizado na disciplina de Software Embarcado : Sistema de multimídia p
       <li>Criado no MTI App Inventor, apresenta a localização em um mapa com base nos valores entregues pelo GPS; comanda o farol ou deixa no modo automático; e mostra o valor medido pelo sensor de distância no modo estacionamento. </li>
     </ul>
 </ul>
+
+![image](https://github.com/user-attachments/assets/0a2e050d-b574-4947-965a-358935cb2bf3)
