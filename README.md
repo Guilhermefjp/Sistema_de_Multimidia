@@ -1,6 +1,6 @@
 # Sistema_de_Multimidia
 
-Projeto realizado na disciplina de Software Embarcado : Sistema de multimídia para veículos usando ESP32 com integração Bluettoh e aplicativo interativo.
+Projeto realizado na disciplina de Software Embarcado : Sistema de multimídia para veículos usando ESP32 com integração Bluettoh e aplicativo interativo. Realizado em C, utilizando ESP-IDF e FreeRTOS.
 
 ## Funções implementadas no projeto 
 
